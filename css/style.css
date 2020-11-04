@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.no-gutters {
+  margin: 0;
+ padding: 0;
+    
+}
+span.menu-icons{
+    padding: 0px 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.carousel-caption{
+    bottom: 27%;
+    left: 10%;
+    text-align: left;
+}
+.stitle{
+    width: 60%;
+    font-size: 55px;
+    font-weight: bold;
+}
+.spara{
+    width: 60%;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+}
+.stitle1{
+    width: 60%;
+    font-size: 55px;
+    font-weight: bold; 
+    margin-left: 19%;
+    
+}
+.spara1{
+    width: 70%;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+    margin-left: 19%;
+}
+.batton{
+   margin-left: 19%; 
+    border-radius: 10px;
+}
+
+
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: firebrick;
+    opacity: 0.5;
+}
+.carousel-indicators li{
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: aquamarine;
+    
+}
+.carousel-indicators .active{
+    background-color: red;
+}

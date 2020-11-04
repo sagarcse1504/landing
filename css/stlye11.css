@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.backgrounding{
+    background-image: url(../img/app_bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: -10 ;
+}
+.hero{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+.form-color{
+    background-color: #013ADF;
+}
+.no-gutte{
+    
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #BDBDBD;
+    opacity: 0.8;
+}
+.iconsetting{
+    margin-left: 130px;
+    color: navy;
+   font-size: 45px;
+
+}
+#image-set{
+    height: 410px;
+    width: 45%;
+    padding: 20px;
+    margin-left: 50%;
+}
+#colorset{
+    color: #A4A4A4;
+}
+#colorset1{
+    color: #A4A4A4; 
+    line-height: 2;
+}
+#h-set{
+    font-weight: bold;
+}
+#icon{
+    margin-right: 50px;
+    padding-top: 40px;
+    font-size: 40;
+    
+}
+.iconnset{
+    font-size: 45px;
+    padding: 25px;
+    margin-top: 10px;
+}
+.empty-div{
+  
+    width: 100%;
+    height: 45px;
+    background-color: #424242;
+}
+.no-gutter{
+    margin: 0;
+    padding: 0;
+}
+#bg-imagee{
+     background-image: url(../img/feature-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: -10 ;
+}
+#bg-imagee-content{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+}
+
+
+.padding1{
+    padding-left: 80px;
+    font-size: 25px;
+}
+.cojds{
+    padding-left: 32px;
+    
+}
+.kkk{
+    margin-left: 6px;
+    margin-top: 10px;
+    display: block;
+}
+.image-setup{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    
+    
+}
+.gbimageset{
+     background-image: url(../img/cta_bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 70%;
+    width: 100%;
+}
+
+
+.mt-5, .my-5 {
+    margin-top: 3rem!important;
+}
+.ml-5, .mx-5 {
+    margin-left: 9rem!important;
+}
+.colorss{
+    color: #A4A4A4; 
+    font-size: 13px;
+}
+
+.ccc{
+    color: #A4A4A4; 
+    font-size: 12px;
+}
+.icon-11{
+    font-size: 30px;
+}
+
+
+
+
